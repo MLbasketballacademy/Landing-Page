@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Moses Lake Basketball Academy</title>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#0b3d5c;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#0a6c74;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:0 15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+text-align:center;
+padding:40px;
+}
+
+.hero img{
+max-width:300px;
+}
+
+.content{
+max-width:900px;
+margin:auto;
+padding:30px;
+}
+
+footer{
+background:#0b3d5c;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Moses Lake Basketball Academy</h1>
+<p>Developing Athletes. Building Leaders.</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="teams.html">Teams</a>
+<a href="sponsors.html">Become A Sponsor</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+
+<img src="images/mlba-logo.png" alt="MLBA Logo">
+
+<h2>Welcome to MLBA</h2>
+
+<p>
+To provide a safe and supportive basketball community where kids of all ages can develop athletic abilities through discipline training and high level coaching.
+</p>
+
+</section>
+
+<section class="content">
+
+<h2>Our Mission</h2>
+
+<p>
+MLBA exists to provide Moses Lake youth with a professional basketball development
+program focused on fundamentals, leadership, and sportsmanship.
+</p>
+
+<p>
+Through strong coaching, organized training, and community support,
+we aim to build one of the premier youth basketball programs in the region.
+</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Moses Lake Basketball Academy</p>
+
+</footer>
+
+</body>
+</html>
